@@ -11,7 +11,7 @@
 
 - 📧 You can reach me at **arianracca@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/arianracca/CV)
+- 📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV)
 
 - 🗣 Fun fact **I'm a Psychologist**
 
