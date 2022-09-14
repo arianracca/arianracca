@@ -12,7 +12,7 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
 
 📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
 
-✨ Fun fact I'm a 🎮 videogames and Rol playing games fan 🎲
+✨ Fun fact I'm a fan of 🎮 videogames and role-playing games 🎲
 </p>
 </div>
 
