@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arian Racca</h1>
+<h1 align="center">👋 Hello, I'm Arian Racca</h1>
 
 <div align="center">
 <h2>Web Developer from Argentina</h1>
 <p>
-🧠 I'm an AI enthusiast and I'm studying Python 🐍
+🧠 I'm an AI enthusiast studying Python 🐍
 
-📚 I’m currently learning **Java and Spring** on a Programming Lab
+📚 I’m currently learning ☕ **Java and Spring** 🍃 on a Programming Lab
 
 📧 You can reach me at **arianracca@gmail.com**
 
@@ -76,7 +76,7 @@
 <h3>Connect with me:</h3>
 <p>
   <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/arian-racca-696440131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianracca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arianracca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianracca" height="30" width="40" /></a>
 </p>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arianracca&label=Profile%20views&color=0e75b6&style=flat" alt="arianracca" /> </p>
