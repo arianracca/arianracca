@@ -2,16 +2,17 @@
 
 <div align="center">
 <h2>Web Developer from Argentina</h1>
+
 <p>
-🧠 I'm an AI enthusiast studying Python 🐍
+I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
 
 📚 I’m currently learning ☕ **Java and Spring** 🍃 on a Programming Lab
 
-📧 You can reach me at **arianracca@gmail.com**
+📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)
 
-📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV)
+📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
 
-🗣 Fun fact **I'm a Psychologist**
+✨ Fun fact I'm a 🎮 videogames and Rol playing games fan 🎲
 </p>
 </div>
 
@@ -71,12 +72,4 @@
 </p>
 </div>
 
----
-<div align="center">
-<h3>Connect with me:</h3>
-<p>
-  <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/arianracca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianracca" height="30" width="40" /></a>
-</p>
-</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arianracca&label=Profile%20views&color=0e75b6&style=flat" alt="arianracca" /> </p>
