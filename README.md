@@ -4,7 +4,7 @@
 <h2>Web Developer from Argentina</h1>
 
 <p>
-I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
+I am an Artificial Intelligence enthusiast 🧠 Psychologist studying Python 🐍
 
 📚 I’m currently learning ☕ **Java and Spring** 🍃 on a Programming Lab
 
@@ -31,7 +31,7 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
 </p>
 </div>
 
----
+
 <div align="center">
 <h3>Backend:</h3>
 <p>
@@ -41,9 +41,12 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <!--Spring-->
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
+</div>
 
----
+
 <div align="center">
 <h3>Version control:</h3>
 <p>
@@ -52,7 +55,7 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
 </p>
 </div>
 
----
+
 <div align="center">
 <h3>Database:</h3>
 <p>
@@ -61,7 +64,7 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
 </p>
 </div>
 
----
+
 <div align="center">
 <h3>Graphic design:</h3>
 <p>
@@ -72,10 +75,12 @@ I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python
 </p>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arianracca&label=Profile%20views&color=green&style=flat" alt="arianracca" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arianracca&label=Profile%20views&color=green&style=flat" alt="arianracca" />
+</div>
 
 <div align="center">
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arianracca&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
