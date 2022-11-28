@@ -7,7 +7,9 @@
   
 I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
 
-📚 I’m currently learning ☕ **Java and Spring** 🍃 on a Programming Lab
+📚 I’m currently learning **React** ⚛
+  
+Working on Backend ☕ **Java and Spring** 🍃 project.
 
 📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)
 
