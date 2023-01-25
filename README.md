@@ -7,11 +7,11 @@
   
 📚 I am studying Artificial Intelligence 🤖 at Rosario's National Univeristy 👩‍🏫
 
-🎓 **I'm also a **Psychologist** 🧠
+🎓 I'm a **Psychologist** 🧠
 
 👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java-Spring** 🍃 & **React** ⚛
 
-📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)
+📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676) 📲 📞
 
 📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
 
