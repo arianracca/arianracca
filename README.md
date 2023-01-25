@@ -158,6 +158,8 @@
 </p>
 </div>
 
+<div align="center">
+  
 <h3>Data Visualization:</h3>
   
 <p>
