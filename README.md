@@ -5,17 +5,18 @@
 
 <p>
   
-I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
+📚 I am studying Artificial Intelligence 🤖 at Rosario's National Univeristy 👩‍🏫
 
-I'm currently working on NEORIS 💻
-  
-Fullstack => ☕ **Java and Spring** 🍃  &  **React** ⚛
+🎓 **I'm also a **Psychologist** 🧠
+
+👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java-Spring** 🍃 & **React** ⚛
 
 📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)
 
 📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
 
-✨ Fun fact I'm a fan of 🎮 videogames and role-playing games 🎲
+✨ On my free time I'm developing with my partner 🎮 indie videogames and role-playing games 🎲
+
 </p>
 </div>
 
