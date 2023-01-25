@@ -52,13 +52,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   
-  
   <!-- Angular -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   
-  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   
 </p>
 </div>
@@ -98,6 +100,20 @@
 </p>
 </div>
 
+<div align="center">
+  
+<h3>Game Engines:</h3>
+  
+<p>
+  
+  <!-- Godot -->
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/assets/press/logo_large_color_dark.svg" alt="godot" height="40"/>
+  </a>
+  
+</p>
+</div>
+
 
 <div align="center">
   
@@ -113,6 +129,20 @@
 </p>
 </div>
 
+<div align="center">
+  
+<h3>Devops:</h3>
+
+<p>
+  
+  <!-- Docker -->
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+ </a>
+ </a>
+  
+</p>
+</div>
 
 <div align="center">
   
@@ -123,6 +153,18 @@
 <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  
+</p>
+</div>
+
+<h3>Data Visualization:</h3>
+  
+<p>
+  
+  <!-- Kibana -->
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   </a>
   
 </p>
