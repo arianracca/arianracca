@@ -7,7 +7,7 @@
   
 I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
 
-📚 I'm currently working on NEORIS
+I'm currently working on NEORIS 💻
   
 Fullstack => ☕ **Java and Spring** 🍃  &  **React** ⚛
 
