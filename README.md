@@ -7,9 +7,9 @@
   
 I am an Artificial Intelligence enthusiast 🧠 **Psychologist** studying Python 🐍
 
-📚 I’m currently learning **React** ⚛
+📚 I'm currently working on NEORIS
   
-Working on Backend ☕ **Java and Spring** 🍃 project.
+Fullstack => ☕ **Java and Spring** 🍃  &  **React** ⚛
 
 📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)
 
