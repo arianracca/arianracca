@@ -5,9 +5,9 @@
 
 <p>
   
-📚 I am studying Artificial Intelligence 🤖 at Rosario's National Univeristy 👩‍🏫
-
 🎓 I'm a **Psychologist** 🧠
+  
+📚 I am studying Artificial Intelligence 🤖 at Rosario's National Univeristy 👩‍🏫
 
 👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java-Spring** 🍃 & **React** ⚛
 
