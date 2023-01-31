@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Arian Racca</h1>
 
 <div align="center">
-<h2>Web Developer from Argentina</h1>
+<h2>Fullstack Developer from Argentina</h1>
 
 <p>
   
