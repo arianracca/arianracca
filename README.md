@@ -9,7 +9,7 @@
   
 📚 I am studying Artificial Intelligence 🤖 at Rosario's National University 👩‍🏫
 
-👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java-Spring** 🍃 & **React** ⚛
+👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java Spring Boot** 🍃 & **React** ⚛
 
 📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676) 📲 📞
 
