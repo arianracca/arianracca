@@ -13,7 +13,7 @@
 
 📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676) 📲 📞
 
-📄 Know about my experiences through my [Resume](https://github.com/arianracca/CV) or [Linkedin](https://www.linkedin.com/in/arianracca/)
+📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1u62YhHn7AjGtYWBbCt5TK7FhOzZXSSJw/view?usp=drive_link) or [Linkedin](https://www.linkedin.com/in/arianracca/)
 
 ✨ On my free time I'm developing with my partner 🎮 indie videogames and role-playing games 🎲
 
