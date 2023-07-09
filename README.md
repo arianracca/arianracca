@@ -5,17 +5,17 @@
 
 <p>
   
-🎓 I'm a **Psychologist** 🧠
+🎓 I hold a degree in **Psychology** 🧠
   
-📚 I am studying Artificial Intelligence 🤖 at National University of Rosario 👩‍🏫
+📚 Currently, I am pursuing studies in **Artificial Intelligence** 🤖 at the National University of Rosario 👩‍🏫.
 
-👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java Spring Boot** 🍃 & **React** ⚛
+👨‍💻 I am currently employed at **NEORIS** 💻 as a **Fullstack Developer**, working with **Java Spring Boot** 🍃 and **React** ⚛.
 
-📧 You can reach me at **arianracca@gmail.com** or [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676) 📲 📞
+📧 You can contact me at **arianracca@gmail.com** or reach me on **[Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)** 📲 📞
 
-📄 Know about my experiences through my [Resume](https://drive.google.com/file/d/1u62YhHn7AjGtYWBbCt5TK7FhOzZXSSJw/view?usp=drive_link) or [Linkedin](https://www.linkedin.com/in/arianracca/)
+📄 Feel free to explore my experiences by checking out my **[Resume](https://drive.google.com/file/d/1u62YhHn7AjGtYWBbCt5TK7FhOzZXSSJw/view?usp=drive_link)**  or connecting with me on **[Linkedin](https://www.linkedin.com/in/arianracca/)**
 
-✨ On my free time I'm developing with my partner 🎮 indie videogames and role-playing games 🎲
+✨ In my free time, I collaborate with my partner in developing indie videogames and role-playing games 🎲.
 
 </p>
 </div>
