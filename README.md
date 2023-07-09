@@ -7,7 +7,7 @@
   
 🎓 I'm a **Psychologist** 🧠
   
-📚 I am studying Artificial Intelligence 🤖 at Rosario's National University 👩‍🏫
+📚 I am studying Artificial Intelligence 🤖 at National University of Rosario 👩‍🏫
 
 👨‍💻 I'm currently working on **NEORIS** 💻 **Fullstack** ☕ **Java Spring Boot** 🍃 & **React** ⚛
 
